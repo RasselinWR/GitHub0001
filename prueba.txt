@@ -1,3 +1,0 @@
-Prueba de git en terminal
-Arreglado el archivo
-Nuevo
