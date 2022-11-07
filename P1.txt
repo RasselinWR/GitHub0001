@@ -1,0 +1,2 @@
+Consideraciones nuevas de programa
+#include <stdio.h>
